@@ -1,0 +1,27 @@
+{
+  
+  "dependencies": {
+  
+    
+  "body-parser": "^2.2.0",
+  
+    
+  "cors": "^2.8.5",
+  
+    
+  "express": "^5.1.0",
+  
+    
+  "mongoose": "^8.16.1",
+  
+    
+  "nodemon": "^3.1.10",
+  
+    
+  "server": "^1.0.41",
+  
+    
+  "socket.io": "^4.8.1"
+  
+  }
+}
